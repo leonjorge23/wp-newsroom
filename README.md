@@ -10,5 +10,5 @@ $ vagrant up
 # How to stop the VM and Server?
 Using the terminal navigate to your lamp folder and run command:
 ```
-$ vagrant helt
+$ vagrant halt
 ```
